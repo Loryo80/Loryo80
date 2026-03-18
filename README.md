@@ -52,7 +52,7 @@ DevOps:         Vercel · GitHub Actions · Playwright · Jest
 
 ## 💬 Let's Connect
 
-- 🌐 [digitalsy-website.vercel.app](https://digitalsy-website.vercel.app)
+- 🌐 [digitalsy-website.vercel.app](https://www.digitalsy.ma/)
 - 💼 Open to freelance projects & collaborations in AI and web development
 - 📍 Agadir, Morocco
 
