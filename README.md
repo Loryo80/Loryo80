@@ -2,7 +2,7 @@
 
 **AI Solution Architect & Full-Stack Developer** based in Agadir, Morocco 🇲🇦
 
-I build production-grade AI applications and full-stack web platforms for real clients. My work spans multi-agent AI systems, RAG pipelines, and modern web apps — from idea to deployment.
+I build production-grade AI applications and full-stack web platforms for real clienths. My work spans multi-agent AI systems, RAG pipelines, and modern web apps — from idea to deployment.
 
 ---
 
@@ -52,7 +52,7 @@ DevOps:         Vercel · GitHub Actions · Playwright · Jest
 
 ## 💬 Let's Connect
 
-- 🌐 [digitalsy-website.vercel.app](https://www.digitalsy.ma/)
+- 🌐 [www.digitalsy.ma](https://www.digitalsy.ma/)
 - 💼 Open to freelance projects & collaborations in AI and web development
 - 📍 Agadir, Morocco
 
